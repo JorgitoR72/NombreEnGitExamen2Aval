@@ -1,0 +1,3 @@
+ciudad1 50
+ciudad2 60
+ciudad3 70
